@@ -1,0 +1,6 @@
+{
+  "name": "Oakridge Academy",
+  "description": "A modern, responsive, and professional school website for Oakridge Academy featuring an interactive notice board, online admissions, student/parent/teacher portals, and an AI chat assistant with advanced reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
